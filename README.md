@@ -10,7 +10,9 @@
 
 <img src="fotoDesafio.png" alt="Foto-Desafio">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Para formar os pacotes de viagem, seu grupo deve escolher, através da
+análise de dados feita, a melhor acomodação dentro de uma base contendo dados de mais de 30 mil
+acomodações
 
 ### Ajustes e melhorias
 
