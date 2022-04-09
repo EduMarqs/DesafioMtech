@@ -3,7 +3,7 @@
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/EduMarqs/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/EduMarqs/README-template?style=for-the-badge)
+!https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 
 
 <img src="fotoDesafio.png" alt="Foto-Desafio">
