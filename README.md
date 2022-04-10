@@ -9,7 +9,7 @@
 <img src="fotoDesafio.png" alt="Foto-Desafio">
 
 > Para formar os pacotes de viagem, seu grupo deve escolher, através da
-análise de dados feita, a melhor acomodação dentro de uma base contendo dados de mais de 30 mil
+análise de dados, a melhor acomodação dentro de uma base contendo dados de mais de 30 mil
 acomodações
 
 ### Ajustes e melhorias
