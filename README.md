@@ -74,9 +74,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/83605646?s=400&u=285d8cb082d30041e7c4610fe8377bb7f18f2f2c&v=4" width="100px;" alt="Foto do Eduardo Marques no GitHub"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Eduardo Marques</b>
         </sub>
       </a>
     </td>
