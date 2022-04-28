@@ -93,15 +93,7 @@ Os desenvolvedores desta solução:
     </td>
     <td align="center">
       <a href="#">
-        ![image](https://user-images.githubusercontent.com/83605646/165782698-d46341d8-bae3-4c24-bc3d-c63269a6bbca.png)
-        <sub>
-          <b>João Victor</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
+        ![image](https://user-images.githubusercontent.com/83605646/165783024-ed5bd601-836b-4d9e-a140-c98b175124c5.png)
         <sub>
           <b>Steve Jobs</b>
         </sub>
