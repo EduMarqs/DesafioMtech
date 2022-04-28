@@ -109,9 +109,3 @@ Os desenvolvedores desta solução:
     </td>
   </tr>
 </table>
-
-
-
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
-
-
