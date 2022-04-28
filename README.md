@@ -95,7 +95,7 @@ Os desenvolvedores desta solução:
       <a href="#">
         <img src="https://pps.whatsapp.net/v/t61.24694-24/197274820_392263859067530_4430550456143036578_n.jpg?ccb=11-4&oh=4ebd59bf08bc701747d0d897878b955c&oe=6279465F" width="100px;" alt="Foto do Eduardo Marques no GitHub"/><br>
         <sub>
-          <b>João victor</b>
+          <b>João Victor</b>
         </sub>
       </a>
     </td>
