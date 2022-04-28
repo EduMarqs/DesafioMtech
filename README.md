@@ -57,7 +57,7 @@ acesso, favorabilidade ao turismo);
 nome de host): tempo que está anunciando na plataforma, quantidade
 de imóveis registrados na plataforma, etc;
 
-#OBSERVAÇÃO:
+##OBSERVAÇÃO:
 
 ● Após escolher e contabilizar no preço total todos os itens
 obrigatórios, ou seja, acomodação (com todas as taxas) + preço
