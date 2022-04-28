@@ -68,13 +68,10 @@ grupo pode escolher outro ou outros pontos turísticos adicionais
 para visitação, desde que o orçamento não seja ultrapassado.
 
 
-## 💻 Pré-requisitos
+## Perfil escolhido
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+![image](https://user-images.githubusercontent.com/83605646/165780591-79d976a4-0169-4894-a5b6-9d6a3739e426.png)
+
 
 ## 🚀 Instalando <nome_do_projeto>
 
