@@ -93,9 +93,9 @@ Os desenvolvedores desta solução:
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        ![image](https://user-images.githubusercontent.com/83605646/165782698-d46341d8-bae3-4c24-bc3d-c63269a6bbca.png)
         <sub>
-          <b>Mark Zuckerberg</b>
+          <b>João Victor</b>
         </sub>
       </a>
     </td>
