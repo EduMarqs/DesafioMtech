@@ -93,9 +93,9 @@ Os desenvolvedores desta solução:
     </td>
     <td align="center">
       <a href="#">
-        ![image](https://user-images.githubusercontent.com/83605646/165783024-ed5bd601-836b-4d9e-a140-c98b175124c5.png)
+        <img src="https://pps.whatsapp.net/v/t61.24694-24/197274820_392263859067530_4430550456143036578_n.jpg?ccb=11-4&oh=4ebd59bf08bc701747d0d897878b955c&oe=6279465F" width="100px;" alt="Foto do Eduardo Marques no GitHub"/><br>
         <sub>
-          <b>Steve Jobs</b>
+          <b>João victor</b>
         </sub>
       </a>
     </td>
